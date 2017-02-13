@@ -93,7 +93,7 @@ public class MainActivity extends AppCompatActivity implements Secured_Client.Se
         message=text.getText().toString();
         if(!message.isEmpty()){
             if(publicKey!=null){
-                addText("me :"+message);
+                addText(message);
                 message=PublicKey.BigIntergerToString(publicKey.encryption(message));
                 text.setText("");
                 client.sendMessage(client.getClientName() +":"+message);
