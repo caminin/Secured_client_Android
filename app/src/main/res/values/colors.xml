@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Samsung_blue">#1976d2</color>
+    <color name="Samsung_blue_transparent">#88419ffa</color>
+    <color name="Samsung_blue_fonce">#1428a0</color>
+    <color name="Samsung_blue_light">#419ffa</color>
+
+    <color name="Samsung_blue_light_light">#CAE1F7</color>
+    <color name="white_transparent">#7bffffff</color>
+
+    <color name="light_font">#FBFBFB</color>
+    <color name="grey_font">#9e9e9e</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="text_shadow_white">#FFFFFF</color>
+
+    <color name="bg_actionbar">#3f51b5</color>
+
+    <color name="pink_transparent">#aa700d39</color>
+    <color name="green_transparent">#aa375a1f</color>
+    <color name="blue_transparent">#aa293576</color>
+    <color name="red_transparent">#aa7f3907</color>
+    <color name="purple_transparent">#aa432677</color>
+
+    <color name="holo_red_light_transparent">#aaff4444</color>
+    <color name="my_color_green">#63a65e</color>
+    <color name="my_color_blue">#4f81bd</color>
+    <color name="my_color_orange" >#F5A44D</color>
+    <color name="holo_pink_light">#ec407a</color>
+    <color name="my_black">#212121</color>
+    <color name="my_grey">#757575</color>
+</resources>
